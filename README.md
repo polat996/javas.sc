@@ -1,1 +1,1 @@
-# javas.sc
+# java.sc
